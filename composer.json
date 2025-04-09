@@ -1,0 +1,19 @@
+{
+    "name": "yulia_ermolaeva/homework-001",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "YuliaErmolaeva\\Homework001\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yulia Ermolaeva",
+            "email": "168757304+yuliakorsak@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
